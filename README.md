@@ -73,6 +73,6 @@ bundle:watch [bundle-id]
 
 Rebuild a snapshot of your artifact using `mvn install`, go back to the web console and see for yourself that the _Last Modified_ argument was updated.
 
-## Add some features to the rest service
+## Add some features to the rest service péniche
 
 Now it's your turn to add some useful methods to SampleService and deploy them. How about a feature that adds two numbers?
